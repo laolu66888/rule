@@ -1,0 +1,5 @@
+HOST-KEYWORD,brew,Proxy
+HOST-KEYWORD,rubygems,Proxy
+HOST-KEYWORD,rutracker,Proxy
+HOST,rutrk.org,Proxy
+HOST-KEYWORD,flowercloud,Proxy
